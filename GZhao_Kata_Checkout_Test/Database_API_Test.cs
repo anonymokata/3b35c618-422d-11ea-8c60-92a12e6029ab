@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using GZhao_Kata_Checkout;
+using Kata_Checkout;
 
-namespace GZhao_Kata_Checkout_Test
+namespace Kata_Checkout_Test
 {
     [TestClass]
     public class Database_API_Test

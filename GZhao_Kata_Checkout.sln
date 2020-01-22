@@ -3,14 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GZhao_Kata_Checkout", "GZhao_Kata_Checkout\GZhao_Kata_Checkout.csproj", "{F43CC7FC-92E0-4B69-8610-5EC16F92EA1B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata_Checkout", "GZhao_Kata_Checkout\Kata_Checkout.csproj", "{F43CC7FC-92E0-4B69-8610-5EC16F92EA1B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D9DB83DB-F3BB-4240-B126-7441EBC5F633}"
 	ProjectSection(SolutionItems) = preProject
 		TestSettings1.testsettings = TestSettings1.testsettings
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GZhao_Kata_Checkout_Test", "GZhao_Kata_Checkout_Test\GZhao_Kata_Checkout_Test.csproj", "{0190DCFD-1017-46AE-8A77-4C59DE052B2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata_Checkout_Test", "GZhao_Kata_Checkout_Test\Kata_Checkout_Test.csproj", "{0190DCFD-1017-46AE-8A77-4C59DE052B2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

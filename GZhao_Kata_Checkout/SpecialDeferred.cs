@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace GZhao_Kata_Checkout
+namespace Kata_Checkout
 {
     public class SpecialDeferred : Special
     {

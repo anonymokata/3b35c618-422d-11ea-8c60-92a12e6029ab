@@ -1,8 +1,8 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using GZhao_Kata_Checkout;
+using Kata_Checkout;
 using System.Collections.Generic;
 
-namespace GZhao_Kata_Checkout_Test
+namespace Kata_Checkout_Test
 {
     [TestClass]
     public class PurchaseItemManager_Test
