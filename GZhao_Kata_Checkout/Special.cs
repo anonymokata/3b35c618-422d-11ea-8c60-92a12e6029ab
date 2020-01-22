@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Gzhao_checkout_total
+namespace GZhao_Kata_Checkout
 {
     /// <summary>
     /// A special is a deal that exists for a certain amount of items.

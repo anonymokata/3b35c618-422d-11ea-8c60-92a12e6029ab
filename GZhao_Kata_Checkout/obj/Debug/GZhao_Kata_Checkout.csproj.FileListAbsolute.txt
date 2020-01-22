@@ -1,7 +1,6 @@
 D:\VisualStudioWorkspace\GZhao_Kata_Checkout\GZhao_Kata_Checkout\bin\Debug\GZhao_Kata_Checkout.exe.config
 D:\VisualStudioWorkspace\GZhao_Kata_Checkout\GZhao_Kata_Checkout\bin\Debug\GZhao_Kata_Checkout.exe
 D:\VisualStudioWorkspace\GZhao_Kata_Checkout\GZhao_Kata_Checkout\bin\Debug\GZhao_Kata_Checkout.pdb
-D:\VisualStudioWorkspace\GZhao_Kata_Checkout\GZhao_Kata_Checkout\obj\Debug\GZhao_Kata_Checkout.csprojAssemblyReference.cache
 D:\VisualStudioWorkspace\GZhao_Kata_Checkout\GZhao_Kata_Checkout\obj\Debug\GZhao_Kata_Checkout.csproj.CoreCompileInputs.cache
 D:\VisualStudioWorkspace\GZhao_Kata_Checkout\GZhao_Kata_Checkout\obj\Debug\GZhao_Kata_Checkout.exe
 D:\VisualStudioWorkspace\GZhao_Kata_Checkout\GZhao_Kata_Checkout\obj\Debug\GZhao_Kata_Checkout.pdb
