@@ -1,0 +1,12 @@
+D:\VisualStudioWorkspace\GZhao_Kata_Checkout\GZhao_Kata_Checkout\bin\Debug\Kata_Checkout.exe.config
+D:\VisualStudioWorkspace\GZhao_Kata_Checkout\GZhao_Kata_Checkout\bin\Debug\Kata_Checkout.exe
+D:\VisualStudioWorkspace\GZhao_Kata_Checkout\GZhao_Kata_Checkout\bin\Debug\Kata_Checkout.pdb
+D:\VisualStudioWorkspace\GZhao_Kata_Checkout\GZhao_Kata_Checkout\obj\Debug\Kata_Checkout.csproj.CoreCompileInputs.cache
+D:\VisualStudioWorkspace\GZhao_Kata_Checkout\GZhao_Kata_Checkout\obj\Debug\Kata_Checkout.exe
+D:\VisualStudioWorkspace\GZhao_Kata_Checkout\GZhao_Kata_Checkout\obj\Debug\Kata_Checkout.pdb
+D:\VisualStudioWorkspace\Kata_Checkout\Kata_Checkout\bin\Debug\Kata_Checkout.exe.config
+D:\VisualStudioWorkspace\Kata_Checkout\Kata_Checkout\bin\Debug\Kata_Checkout.exe
+D:\VisualStudioWorkspace\Kata_Checkout\Kata_Checkout\bin\Debug\Kata_Checkout.pdb
+D:\VisualStudioWorkspace\Kata_Checkout\Kata_Checkout\obj\Debug\Kata_Checkout.csproj.CoreCompileInputs.cache
+D:\VisualStudioWorkspace\Kata_Checkout\Kata_Checkout\obj\Debug\Kata_Checkout.exe
+D:\VisualStudioWorkspace\Kata_Checkout\Kata_Checkout\obj\Debug\Kata_Checkout.pdb
